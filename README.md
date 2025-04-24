@@ -1,12 +1,12 @@
-# forward_chaining_in_propositional_logic
+# FINAL PROJECT
+
 This is a Final project solving 4 Task (Course: 503043-Introduction to Artificial Intelligence) carried out by a group of 2nd year students. 
 
-This repository contains our group midterm essay, which addresses three tasks using different algorithms:
+This repository contains our group midterm essay, which addresses four tasks using different algorithms:
 
 1. **Simulated Annealing Search on 3D surfaces**
 2. **9x9 Tic-Tac-Toe with Heuristic Alpha-Beta Search**
-3. **Constraint Satisfaction Problems with Propositional
-Logic.**
+3. **Constraint Satisfaction Problems with Propositional Logic.**
 4. **Naïve Bayesian Classifier**
 
 ## Contributors
